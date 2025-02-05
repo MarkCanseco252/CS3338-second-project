@@ -1,0 +1,63 @@
+commit 1025cb120e4fbf7e43ebb030481f40eeee343ab8
+Merge: 94dfb84 0ef0cd0
+Author: MarkCanseco252 <mcansec4@calstatela.edu>
+Date:   Tue Feb 4 19:26:39 2025 -0800
+
+    Resolved merge conflict in index.html
+
+commit 0ef0cd05a4e3d6862da54cf48880ada0dc8947a6
+Author: MarkCanseco252 <mcansec4@calstatela.edu>
+Date:   Tue Feb 4 19:17:08 2025 -0800
+
+    Updated favorite food in index-fix branch
+
+commit 94dfb84a6ba1b10b2e324681b319583fe63eb988
+Author: MarkCanseco252 <mcansec4@calstatela.edu>
+Date:   Tue Feb 4 19:14:55 2025 -0800
+
+    Updated favorite food in main branch
+
+commit 511b9a43215d13c63de50a73997ce5155fb291ab
+Author: MarkCanseco252 <mcansec4@calstatela.edu>
+Date:   Fri Jan 31 13:30:57 2025 -0800
+
+    Added favorite game div in index.html
+
+commit 5655589dcbc706f4ca7ed5c473a87090aa125acb
+Author: MarkCanseco252 <mcansec4@calstatela.edu>
+Date:   Fri Jan 31 13:29:05 2025 -0800
+
+    Added favorite food div in index.html
+
+commit cd5605e69d09be3383870969ee341e2aafb8d633
+Author: MarkCanseco252 <mcansec4@calstatela.edu>
+Date:   Fri Jan 31 13:16:42 2025 -0800
+
+    Added README.md describing the repo
+
+commit a20889cddf05725b3be94488e17c4ec7e13d40eb
+Author: MarkCanseco252 <mcansec4@calstatela.edu>
+Date:   Fri Jan 31 13:13:25 2025 -0800
+
+    Added README.md describing the repo
+
+commit 70df5c67f719e0c93ab9b15ada2b381d6f4008d6
+Merge: 1d2bfc0 a402fd4
+Author: MarkCanseco252 <144498213+MarkCanseco252@users.noreply.github.com>
+Date:   Fri Jan 31 13:09:40 2025 -0800
+
+    Merge pull request #1 from MarkCanseco252/info-fill
+    
+    Filled in blanks in index.html
+
+commit a402fd40e67477d94648d8ff1910bcca48ec3580
+Author: MarkCanseco252 <mcansec4@calstatela.edu>
+Date:   Fri Jan 31 13:01:41 2025 -0800
+
+    Filled in blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
